@@ -1,0 +1,11 @@
+Model Information:
+* title:	Qatar MAP 2017 - Wreck 1
+* source:	https://sketchfab.com/3d-models/qatar-map-2017-wreck-1-b6c4c921718744a8add9d5ec50533e64
+* author:	Maritime Archaeology (https://sketchfab.com/maritimearchaeologytrust)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Qatar MAP 2017 - Wreck 1" (https://sketchfab.com/3d-models/qatar-map-2017-wreck-1-b6c4c921718744a8add9d5ec50533e64) by Maritime Archaeology (https://sketchfab.com/maritimearchaeologytrust) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
