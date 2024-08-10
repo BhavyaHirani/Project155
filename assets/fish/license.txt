@@ -1,0 +1,11 @@
+Model Information:
+* title:	Clown Fish
+* source:	https://sketchfab.com/3d-models/clown-fish-ea6e5141407648b49ed41234344cbc7f
+* author:	FrigidCarlKid (https://sketchfab.com/kmorganc1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Clown Fish" (https://sketchfab.com/3d-models/clown-fish-ea6e5141407648b49ed41234344cbc7f) by FrigidCarlKid (https://sketchfab.com/kmorganc1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
